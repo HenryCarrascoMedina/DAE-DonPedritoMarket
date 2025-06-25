@@ -1,0 +1,1 @@
+El proyecto tiene los endpoints(CRUD en ApiRest) de categoria, cliente, producto, proveedor, sucursales. La carpeta de postman donde esta la coleccion de sucursal y categoria. Cualquier avance dejar una descripcion aqui.

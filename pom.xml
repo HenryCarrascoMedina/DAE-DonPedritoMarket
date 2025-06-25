@@ -66,26 +66,26 @@
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
 
-		<!-- En esta parte agregaremos POM de seguridad-->
+		<!-- En esta parte agregaremos POM de seguridad
 		
-		<!-- Spring Security -->
+		Spring Security 
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-security</artifactId>
 		</dependency>
 
-		<!-- Thymeleaf + Spring Security integration -->
+		Thymeleaf + Spring Security integration 
 		<dependency>
 			<groupId>org.thymeleaf.extras</groupId>
 			<artifactId>thymeleaf-extras-springsecurity6</artifactId>
 		</dependency>
 
-		<!-- BCrypt (para encriptar contraseñas) -->
+		BCrypt (para encriptar contraseñas)
 		<dependency>
 			<groupId>org.springframework.security</groupId>
 			<artifactId>spring-security-crypto</artifactId>
 		</dependency>
-
+		-->
 	</dependencies>
 
 	<build>

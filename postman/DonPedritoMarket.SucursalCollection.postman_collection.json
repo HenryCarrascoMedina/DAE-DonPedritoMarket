@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "api/sucursales",
+			"name": "GET - Listar Sucursales",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -27,7 +27,7 @@
 			"response": []
 		},
 		{
-			"name": "api/sucursales/1",
+			"name": "GET - Listar Sucursales x ID",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -51,7 +51,7 @@
 			"response": []
 		},
 		{
-			"name": "api/sucursales",
+			"name": "POST - Crear nueva Sucursal",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -83,7 +83,7 @@
 			"response": []
 		},
 		{
-			"name": "api/sucursales/3",
+			"name": "PUT - Actualizar Sucursal",
 			"request": {
 				"auth": {
 					"type": "noauth"
@@ -116,7 +116,7 @@
 			"response": []
 		},
 		{
-			"name": "api/sucursales/3",
+			"name": "DELETE - Eliminar Sucursal",
 			"request": {
 				"auth": {
 					"type": "noauth"

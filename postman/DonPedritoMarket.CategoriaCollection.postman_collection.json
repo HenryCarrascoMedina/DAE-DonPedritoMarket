@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "/api/categorias/1",
+			"name": "GET - Listar Categorías x ID",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
 			},
@@ -40,7 +40,7 @@
 			"response": []
 		},
 		{
-			"name": "/api/categorias",
+			"name": "GET - Listar Categorías",
 			"request": {
 				"method": "GET",
 				"header": [],
@@ -60,7 +60,7 @@
 			"response": []
 		},
 		{
-			"name": "api/categorias",
+			"name": "PUT - Actualizar Categoría",
 			"request": {
 				"method": "PUT",
 				"header": [],
@@ -90,7 +90,7 @@
 			"response": []
 		},
 		{
-			"name": "api/categorias",
+			"name": "POST - Crear nueva Categoría",
 			"request": {
 				"method": "POST",
 				"header": [],
@@ -119,7 +119,7 @@
 			"response": []
 		},
 		{
-			"name": "api/categorias/6",
+			"name": "DELETE - Eliminar Categoria",
 			"request": {
 				"method": "DELETE",
 				"header": [],

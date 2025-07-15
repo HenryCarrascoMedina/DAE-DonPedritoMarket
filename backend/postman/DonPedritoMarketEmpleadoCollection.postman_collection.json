@@ -41,7 +41,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8085/springboot-jpa/api/v1/employees",
+					"raw": "http://localhost:8085/api/empleados",
 					"protocol": "http",
 					"host": [
 						"localhost"

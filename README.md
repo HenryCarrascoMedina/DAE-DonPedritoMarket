@@ -92,13 +92,11 @@ Ubicación: backend/src/main/resources/
    
 com.donpedrito.market.DonpedritoMarketApplication
 
-3. Haz clic derecho → `Run As` → `Java Application`
-4. El servidor iniciará por defecto en el puerto `8080`
+3. Haz clic derecho → `Run As` → `Spring Boot App`
+4. El servidor iniciará por defecto en el puerto `8085`
 
 **Cambiar puerto (opcional):**  
 Edita el archivo `application.properties`:
-server.port=8090
-
 
 ---
 

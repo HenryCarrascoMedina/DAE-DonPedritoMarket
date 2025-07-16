@@ -78,10 +78,10 @@ Se utiliza una base de datos embebida para pruebas rápidas y desarrollo. Al rei
 - `data.sql` → datos de ejemplo
 Ubicación: backend/src/main/resources/
 
+Modelo entidad relación
 
-*Puedes conectar con MySQL para entornos persistentes.*
+<img width="973" height="902" alt="image" src="https://github.com/user-attachments/assets/4948d0e7-1397-4793-b4cf-d24246dc7814" />
 
----
 
 ## ▶️ Iniciar la aplicación
 

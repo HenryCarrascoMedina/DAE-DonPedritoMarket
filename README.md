@@ -101,7 +101,10 @@ Edita el archivo `application.properties`:
 ---
 
 ### Frontend (React) 
-
+1. Abrir el proyecto en Visual Studio Code
+2. Abrir el terminal apuntando al frontend
+3. Colocar en el terminal 'npm run dev'
+4. La terminal indicará el host
 
 
 
